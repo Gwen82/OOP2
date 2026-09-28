@@ -9,7 +9,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
-public class exercise1{
+public class A1123328_exercise1{
     static JFrame frm = new JFrame("Dice Simulator");
     static JPanel pne = new JPanel(new BorderLayout());
 
